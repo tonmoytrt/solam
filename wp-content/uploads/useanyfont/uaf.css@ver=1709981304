@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'handle';
+					src: url('/wp-content/uploads/useanyfont/1547HANDLE.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1547HANDLE.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.handle{font-family: 'handle' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'handle' !important;
+				}
+		
